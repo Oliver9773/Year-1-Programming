@@ -1,0 +1,11 @@
+from turtle import *#Tryangle
+color ('blue', 'red')
+begin_fill()
+forward(50)
+right(60)
+forward(50)
+right(60)
+right(90)
+forward(100)
+end_fill()
+done()

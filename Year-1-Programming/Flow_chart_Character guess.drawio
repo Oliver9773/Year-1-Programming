@@ -1,0 +1,133 @@
+<mxfile host="app.diagrams.net" modified="2023-10-09T11:59:23.140Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.31" etag="YwLMJqb71lWiMhCHPi_0" version="22.0.4" type="onedrive">
+  <diagram name="Page-1" id="7duHjeyoGK0zSNTKW4w0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-tNSbtWkfuh_BUwKJFv1-2" value="Is character male?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tNSbtWkfuh_BUwKJFv1-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="-tNSbtWkfuh_BUwKJFv1-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="60" as="sourcePoint" />
+            <mxPoint x="140" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-tNSbtWkfuh_BUwKJFv1-4" value="Is character a jedi?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tNSbtWkfuh_BUwKJFv1-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="-tNSbtWkfuh_BUwKJFv1-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="60" as="sourcePoint" />
+            <mxPoint x="290" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-tNSbtWkfuh_BUwKJFv1-6" value="Is character a droid?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tNSbtWkfuh_BUwKJFv1-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="150" as="sourcePoint" />
+            <mxPoint x="250" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-tNSbtWkfuh_BUwKJFv1-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="150" as="sourcePoint" />
+            <mxPoint x="380" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-tNSbtWkfuh_BUwKJFv1-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="-tNSbtWkfuh_BUwKJFv1-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="150" as="sourcePoint" />
+            <mxPoint x="40" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-tNSbtWkfuh_BUwKJFv1-13" value="Is character known to have green lightsabre?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tNSbtWkfuh_BUwKJFv1-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="-tNSbtWkfuh_BUwKJFv1-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="230" as="sourcePoint" />
+            <mxPoint x="16" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-tNSbtWkfuh_BUwKJFv1-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="-tNSbtWkfuh_BUwKJFv1-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="230" as="sourcePoint" />
+            <mxPoint x="80" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-tNSbtWkfuh_BUwKJFv1-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="-tNSbtWkfuh_BUwKJFv1-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="150" as="sourcePoint" />
+            <mxPoint x="250" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-tNSbtWkfuh_BUwKJFv1-19" value="Is character a sith lord?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tNSbtWkfuh_BUwKJFv1-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="360" as="sourcePoint" />
+            <mxPoint x="130" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-tNSbtWkfuh_BUwKJFv1-25" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="58" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-tNSbtWkfuh_BUwKJFv1-26" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="58" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-tNSbtWkfuh_BUwKJFv1-27" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="138" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-tNSbtWkfuh_BUwKJFv1-28" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="394" y="138" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-tNSbtWkfuh_BUwKJFv1-29" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="138" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-tNSbtWkfuh_BUwKJFv1-30" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="148" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-tNSbtWkfuh_BUwKJFv1-31" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-35" y="230" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-tNSbtWkfuh_BUwKJFv1-32" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="228" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-tNSbtWkfuh_BUwKJFv1-33" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="145" y="368" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-tNSbtWkfuh_BUwKJFv1-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="-tNSbtWkfuh_BUwKJFv1-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="265" y="360" as="sourcePoint" />
+            <mxPoint x="304" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-tNSbtWkfuh_BUwKJFv1-35" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="388" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-tNSbtWkfuh_BUwKJFv1-37" value="Darth Vader" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="450" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tNSbtWkfuh_BUwKJFv1-38" value="Grand Admiral Thrawn" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="450" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tNSbtWkfuh_BUwKJFv1-39" value="Luke Skywalker" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="258" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tNSbtWkfuh_BUwKJFv1-40" value="Obi-wan Kenobi" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="258" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tNSbtWkfuh_BUwKJFv1-41" value="R2D2&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="168" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tNSbtWkfuh_BUwKJFv1-42" value="Princess Leia&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

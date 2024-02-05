@@ -1,0 +1,9 @@
+Recipe_Name = input("Enter the recipe name ") #Sets up storage locations and initialises variables
+Number_People_Recipe_Serves = int(input("Enter the number of people the recipe serves "))
+Ingredient_Names = []
+Ingredient_Quantitys = []
+Ingredient_Units = []
+Ingredient_Add = input("Type 'Y' if adding anougher ingredient else type 'N' ")
+Loop_User_Interface = "Y"
+
+while Loop_User_Interface == "Y":
